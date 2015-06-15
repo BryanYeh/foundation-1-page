@@ -2,11 +2,37 @@
 General Styles
 */
 
+.download-bootstrap, .get-started, .find-out-more {
+    border-radius: 50px;
+    text-transform: uppercase;
+    color: #2a2a2a;
+    background-color: #fff;
+    font-weight: bold;
+}
+
 /*
 Icon Size
 */
 .size-72 {
     font-size: 72px;
+}
+
+/*
+Header Section
+*/
+.header {
+    background-image: url();
+}
+
+.find-out-more {
+    background-color: #F27155;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.find-out-more:hover {
+    background-color: #f05f40;
+    color: #fff;
 }
 
 /*
@@ -27,7 +53,6 @@ About Section
 .about {
     background-color: #f05f40;
     color: #fff;
-    text-align: center;
 }
 
 .about h3 {
@@ -72,13 +97,6 @@ Download Section
     color: #fff;
 }
 
-.download-bootstrap, .get-started {
-    border-radius: 50px;
-    text-transform: uppercase;
-    color: #2a2a2a;
-    background-color: #fff;
-    font-weight: bold;
-}
 
 .download-bootstrap:hover {
     background-color: #fff;
