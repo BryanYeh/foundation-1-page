@@ -2,6 +2,10 @@
 General Styles
 */
 
+body{
+    font-family: Merriweather, 'Helvetica Neue', Arial, sans-serif;
+}
+
 .download-bootstrap, .get-started, .find-out-more {
     border-radius: 50px;
     text-transform: uppercase;
@@ -107,6 +111,11 @@ Download Section
 /*
 Contact
 */
+
+.contact {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
 
 .email {
     color: #f05f40;
