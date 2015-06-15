@@ -1,1 +1,13 @@
-.size-72 { font-size: 72px; }
+.size-72 {
+    font-size: 72px;
+}
+
+/*
+Horizontal Divider
+*/
+
+hr {
+    max-width: 50px;
+    border-color: #f05f40;
+    border-width: 3px;
+}
