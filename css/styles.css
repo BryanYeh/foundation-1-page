@@ -21,11 +21,23 @@ Icon Size
     font-size: 72px;
 }
 
+
 /*
 Header Section
 */
 .header {
-    background-image: url();
+    background-image: url("../img/header.jpg");
+    background-position: center;
+    width: 100%;
+    min-height: 100%;
+}
+
+.header h1{
+    color: #fff;
+}
+
+.header h3{
+    color: #f2f2f2;
 }
 
 .find-out-more {
@@ -96,6 +108,7 @@ Download Section
 .download {
     background-color: #2a2a2a;
     color: #fff;
+    min-height: 700px;
 }
 
 .content h3 {
